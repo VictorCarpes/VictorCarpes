@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcarpes&layout=compact&langs_count=7&theme=city_lights"/>
 </div>
 
-<br><br>
+<br>
 
 <div> 
   <a href="https://www.linkedin.com/in/victor-carpes-59966722a/" target="_blank">
